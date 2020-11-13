@@ -1,4 +1,4 @@
 # EIP-Scanner
-EIP-Scanner,eip,Scanner,Fanuc Robot
+ethernetip scanner,eip,Scanner,Fanuc Robot
 Connect Fanuc Robot by Etherent/ip -io
 
